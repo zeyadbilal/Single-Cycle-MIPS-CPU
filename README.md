@@ -44,7 +44,7 @@ All in **one clock cycle** per instruction.
 
 ## 🔍 Visual Overview
 
-![CPU Diagram](Screenshot%202025-05-09%20162757.png)
+![CPU Diagram](Final.png)
 
 🔺 *The CPU datapath includes the main control unit (red oval) and ALU control (orange circle). Green lines represent control signals.*
 
