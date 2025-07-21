@@ -44,7 +44,7 @@ All in **one clock cycle** per instruction.
 
 ## 🔍 Visual Overview
 
-![CPU Diagram](CO Hardware Project/Images & Record/Final.png)
+![CPU Diagram](https://github.com/zeyadbilal/Single-Cycle-MIPS-CPU/blob/main/CO%20Hardware%20Project/Images%20%26%20Record/Final.png)
 
 🔺 *The CPU datapath includes the main control unit (red oval) and ALU control (orange circle). Green lines represent control signals.*
 
